@@ -9,7 +9,7 @@ public class DatePicker {
     public static void main(String[] args) throws InterruptedException {
 
         String month = "March";
-        String  day = "21";
+        String  day = "24";
 
         System.setProperty("webdriver.chrome.driver","C:\\Users\\cheta\\IdeaProjects\\SeleniumLearning\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
